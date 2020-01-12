@@ -1,0 +1,20 @@
+#header{
+    background: skyblue;
+    height: 20vh;
+	margin-top: 20px;
+}
+
+#main{
+    background-color: tomato;
+    height: 60vh;
+}
+
+#main form{
+	width: 75%;
+}
+
+#footer{
+    background-color: black;
+    height: 18vh;
+    color: white;
+}
