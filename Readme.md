@@ -19,9 +19,10 @@ The php script connects to the database and display the input and Results
 in a webpage.
 
 #MySQL
+
 Mysql is installed in the raspberry pi. A database with the name 
 "raspberry_pi_data" is created. The database has single table "nltk_results"
-with two three columns ID, UserInput and Results.
+with three columns ID, UserInput and Results.
 
 
 
